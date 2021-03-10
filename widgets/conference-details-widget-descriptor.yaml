@@ -3,7 +3,6 @@ titles:
   en: Conference Details Widget
   it: Conference Details Widget
 group: free
-unknown: not-working
 customUi: |
   <#assign wp=JspTaglibs["/aps-core"]>
   <script nonce="<@wp.cspNonce />" src="<@wp.resourceURL />xmasbundle-bundle/static/js/2.21649f1a.chunk.js" ></script>

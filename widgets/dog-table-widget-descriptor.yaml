@@ -3,6 +3,7 @@ titles:
   en: Dog Table Widget
   it: Dog Table Widget
 group: free
+unknown: not-working
 customUi: |
   <#assign wp=JspTaglibs["/aps-core"]>
   <script nonce="<@wp.cspNonce />" src="<@wp.resourceURL />xmasbundle-bundle/static/js/2.0ff2a36d.chunk.js" ></script>
