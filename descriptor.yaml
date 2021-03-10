@@ -1,0 +1,11 @@
+code: '1982'
+description: 1982 bundle
+bundle-type: not-existing
+components:
+  widgets:
+    - widgets/conference-details-widget-descriptor.yaml
+    - widgets/conference-form-widget-descriptor.yaml
+    - widgets/conference-table-widget-descriptor.yaml
+    - widgets/dog-details-widget-descriptor.yaml
+    - widgets/dog-form-widget-descriptor.yaml
+    - widgets/dog-table-widget-descriptor.yaml
