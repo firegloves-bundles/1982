@@ -1,6 +1,6 @@
 code: '1982'
 description: 1982 bundle
-bundle-type: not-existing
+bundle-type: standard-bundle
 components:
   widgets:
     - widgets/conference-details-widget-descriptor.yaml
