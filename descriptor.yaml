@@ -9,3 +9,4 @@ components:
     - widgets/dog-details-widget-descriptor.yaml
     - widgets/dog-form-widget-descriptor.yaml
     - widgets/dog-table-widget-descriptor.yaml
+  fragments: ciaocore
